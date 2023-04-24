@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ITH Pharma" />
         <module name="VolkerWesselsUk" />
+        <module name="IthPharma" />
         <module name="sampleprojectwithhars" />
         <module name="JamesAndJames" />
       </profile>
