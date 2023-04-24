@@ -35,7 +35,7 @@ public class IthPharmaStep {
 
     @And("^I click On registered Page$")
     public void iClickOnRegisteredPage() {
-//        this method will mousejoover and wait intil click
+//        this method will mousehoover and wait intil click
         By by = By.xpath("//a[contains(text(),'Register')]");
         Actions action = new Actions(driver);
         WebElement elem = driver.findElement(by);
