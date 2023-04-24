@@ -1,0 +1,141 @@
+2023-04-13 19:04:137 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:871 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (84da197be5e9a81224dfed46aac40705)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:169 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (84da197be5e9a81224dfed46aac40705)] -> link text: Speak to an expert]
+2023-04-13 19:04:868 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:522 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (e0e8fb0ed340d7e06aa0583add37cfb3)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:784 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (e0e8fb0ed340d7e06aa0583add37cfb3)] -> link text: Speak to an expert]
+2023-04-13 19:04:595 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:900 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (95ebc4994fa89140605b80b9ecff1afe)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:974 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (95ebc4994fa89140605b80b9ecff1afe)] -> link text: Speak to an expert]
+2023-04-13 19:04:821 INFO  JamesAndJames :83 - I enter first name [[ChromeDriver: chrome on WINDOWS (95ebc4994fa89140605b80b9ecff1afe)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 19:04:988 INFO  JamesAndJames :89 - I enter Last name [[ChromeDriver: chrome on WINDOWS (95ebc4994fa89140605b80b9ecff1afe)] -> tag name: body]
+2023-04-13 19:04:824 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:769 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (11db4246b0da246d1f5d970bcf3b995e)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:290 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (11db4246b0da246d1f5d970bcf3b995e)] -> link text: Speak to an expert]
+2023-04-13 19:04:474 INFO  JamesAndJames :83 - I enter first name [[ChromeDriver: chrome on WINDOWS (11db4246b0da246d1f5d970bcf3b995e)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 19:04:630 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:632 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (bca044e8e856a46c25d320644dc03d7b)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:750 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (bca044e8e856a46c25d320644dc03d7b)] -> link text: Speak to an expert]
+2023-04-13 19:04:80 INFO  JamesAndJames :83 - I enter first name [[ChromeDriver: chrome on WINDOWS (bca044e8e856a46c25d320644dc03d7b)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 19:04:395 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:525 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (886d13382fad5fb349f9e68f3f21c48b)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:596 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (886d13382fad5fb349f9e68f3f21c48b)] -> link text: Speak to an expert]
+2023-04-13 19:04:758 INFO  JamesAndJames :83 - I enter first name [[ChromeDriver: chrome on WINDOWS (886d13382fad5fb349f9e68f3f21c48b)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 19:04:515 INFO  JamesAndJames :89 - I enter Last name [[ChromeDriver: chrome on WINDOWS (886d13382fad5fb349f9e68f3f21c48b)] -> xpath: //*[@id="4545907714"]]
+2023-04-13 19:04:674 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:933 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (5345eff60451caa70722fc86ab3a6d06)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:995 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (5345eff60451caa70722fc86ab3a6d06)] -> link text: Speak to an expert]
+2023-04-13 19:04:194 INFO  JamesAndJames :83 - I enter first name [[ChromeDriver: chrome on WINDOWS (5345eff60451caa70722fc86ab3a6d06)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 19:04:305 INFO  JamesAndJames :88 - I enter Last name [[ChromeDriver: chrome on WINDOWS (5345eff60451caa70722fc86ab3a6d06)] -> xpath: //*[@id="4545907714"]]
+2023-04-13 19:04:448 INFO  JamesAndJames :93 - I enter Last name [[ChromeDriver: chrome on WINDOWS (5345eff60451caa70722fc86ab3a6d06)] -> xpath: //*[@id="4545910786"]]
+2023-04-13 19:04:586 INFO  JamesAndJames :63 - I click On WhoWeAre
+2023-04-13 19:04:653 INFO  JamesAndJames :70 - I verify Text[[ChromeDriver: chrome on WINDOWS (e96e0616149f0896dd1ee71cfe1f3438)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 19:04:832 INFO  JamesAndJames :77 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (e96e0616149f0896dd1ee71cfe1f3438)] -> link text: Speak to an expert]
+2023-04-13 19:04:83 INFO  JamesAndJames :83 - I enter first name [[ChromeDriver: chrome on WINDOWS (e96e0616149f0896dd1ee71cfe1f3438)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 19:04:205 INFO  JamesAndJames :89 - I enter Last name [[ChromeDriver: chrome on WINDOWS (e96e0616149f0896dd1ee71cfe1f3438)] -> xpath: //*[@id="4545907714"]]
+2023-04-13 19:04:345 INFO  JamesAndJames :95 - I enter Last name [[ChromeDriver: chrome on WINDOWS (e96e0616149f0896dd1ee71cfe1f3438)] -> xpath: //*[@id="4545910786"]]
+2023-04-13 19:04:627 INFO  JamesAndJames :101 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (e96e0616149f0896dd1ee71cfe1f3438)] -> xpath: //*[@id="4545908738"]]
+2023-04-13 19:04:840 INFO  JamesAndJames :101 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (e96e0616149f0896dd1ee71cfe1f3438)] -> xpath: //*[@id="4545908738"]]
+2023-04-13 20:04:829 INFO  JamesAndJames :68 - I click On WhoWeAre
+2023-04-13 20:04:950 INFO  JamesAndJames :75 - I verify Text[[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 20:04:12 INFO  JamesAndJames :82 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> link text: Speak to an expert]
+2023-04-13 20:04:229 INFO  JamesAndJames :88 - I enter first name [[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 20:04:356 INFO  JamesAndJames :94 - I enter Last name [[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> xpath: //*[@id="4545907714"]]
+2023-04-13 20:04:464 INFO  JamesAndJames :100 - I enter Last name [[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> xpath: //*[@id="4545910786"]]
+2023-04-13 20:04:606 INFO  JamesAndJames :106 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> xpath: //*[@id="4545908738"]]
+2023-04-13 20:04:916 INFO  JamesAndJames :111 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> xpath: //*[@id="4545914882"]]
+2023-04-13 20:04:112 INFO  JamesAndJames :111 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (0bd9e95eab6a7d047c683b5cbc773400)] -> xpath: //*[@id="4545914882"]]
+2023-04-13 20:04:591 INFO  JamesAndJames :72 - I click On WhoWeAre
+2023-04-13 20:04:65 INFO  JamesAndJames :79 - I verify Text[[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 20:04:187 INFO  JamesAndJames :86 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> link text: Speak to an expert]
+2023-04-13 20:04:344 INFO  JamesAndJames :92 - I enter first name [[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 20:04:489 INFO  JamesAndJames :98 - I enter Last name [[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //*[@id="4545907714"]]
+2023-04-13 20:04:611 INFO  JamesAndJames :104 - I enter Last name [[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //*[@id="4545910786"]]
+2023-04-13 20:04:916 INFO  JamesAndJames :110 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //*[@id="4545908738"]]
+2023-04-13 20:04:150 INFO  JamesAndJames :115 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //*[@id="4545914882"]]
+2023-04-13 20:04:306 INFO  JamesAndJames :120 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //*[@id="4586371074"]]
+2023-04-13 20:04:438 INFO  JamesAndJames :126 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (892cf70c8487b1eb34f13eb0a4141687)] -> xpath: //*[@id="4586383362"]]
+2023-04-13 20:04:267 INFO  JamesAndJames :76 - I click On WhoWeAre
+2023-04-13 20:04:765 INFO  JamesAndJames :83 - I verify Text[[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-13 20:04:864 INFO  JamesAndJames :90 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> link text: Speak to an expert]
+2023-04-13 20:04:21 INFO  JamesAndJames :96 - I enter first name [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="4545906690"]]
+2023-04-13 20:04:124 INFO  JamesAndJames :102 - I enter Last name [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="4545907714"]]
+2023-04-13 20:04:253 INFO  JamesAndJames :108 - I enter Last name [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="4545910786"]]
+2023-04-13 20:04:382 INFO  JamesAndJames :114 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="4545908738"]]
+2023-04-13 20:04:809 INFO  JamesAndJames :119 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="4545914882"]]
+2023-04-13 20:04:10 INFO  JamesAndJames :124 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="4586371074"]]
+2023-04-13 20:04:152 INFO  JamesAndJames :130 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="4586383362"]]
+2023-04-13 20:04:512 INFO  JamesAndJames :135 - I click On Arrange your call [[ChromeDriver: chrome on WINDOWS (b0500f5988d06144eaaf884450bd94e0)] -> xpath: //*[@id="submit_button"]]
+2023-04-14 14:04:682 INFO  JamesAndJames :76 - I click On WhoWeAre
+2023-04-14 14:04:720 INFO  JamesAndJames :83 - I verify Text[[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-14 14:04:809 INFO  JamesAndJames :90 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> link text: Speak to an expert]
+2023-04-14 14:04:16 INFO  JamesAndJames :96 - I enter first name [[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //*[@id="4545906690"]]
+2023-04-14 14:04:112 INFO  JamesAndJames :102 - I enter Last name [[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //*[@id="4545907714"]]
+2023-04-14 14:04:285 INFO  JamesAndJames :108 - I enter Company name  [[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //*[@id="4545910786"]]
+2023-04-14 14:04:428 INFO  JamesAndJames :114 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //*[@id="4545908738"]]
+2023-04-14 14:04:687 INFO  JamesAndJames :119 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //*[@id="4545914882"]]
+2023-04-14 14:04:857 INFO  JamesAndJames :124 - I enter total order [[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //*[@id="4586371074"]]
+2023-04-14 14:04:02 INFO  JamesAndJames :130 - I enter Message [[ChromeDriver: chrome on WINDOWS (1f741f2830f833527a9ec7224b716f72)] -> xpath: //*[@id="4586383362"]]
+2023-04-15 11:04:697 INFO  JamesAndJames :76 - I click On WhoWeAre
+2023-04-15 11:04:583 INFO  JamesAndJames :83 - I verify Text[[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-15 11:04:722 INFO  JamesAndJames :90 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> link text: Speak to an expert]
+2023-04-15 11:04:977 INFO  JamesAndJames :96 - I enter first name [[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //*[@id="4545906690"]]
+2023-04-15 11:04:102 INFO  JamesAndJames :102 - I enter Last name [[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //*[@id="4545907714"]]
+2023-04-15 11:04:230 INFO  JamesAndJames :108 - I enter Company name  [[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //*[@id="4545910786"]]
+2023-04-15 11:04:438 INFO  JamesAndJames :114 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //*[@id="4545908738"]]
+2023-04-15 11:04:638 INFO  JamesAndJames :119 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //*[@id="4545914882"]]
+2023-04-15 11:04:977 INFO  JamesAndJames :124 - I enter total order [[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //*[@id="4586371074"]]
+2023-04-15 11:04:193 INFO  JamesAndJames :130 - I enter Message [[ChromeDriver: chrome on WINDOWS (95936c1e3444efb75f80c0aced49542c)] -> xpath: //*[@id="4586383362"]]
+2023-04-16 19:04:551 INFO  JamesAndJames :76 - I click On WhoWeAre
+2023-04-16 19:04:540 INFO  JamesAndJames :83 - I verify Text[[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //span[contains(text(),'Our story')]]
+2023-04-16 19:04:273 INFO  JamesAndJames :90 - I click speak to an expert[[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> link text: Speak to an expert]
+2023-04-16 19:04:499 INFO  JamesAndJames :96 - I enter first name [[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //*[@id="4545906690"]]
+2023-04-16 19:04:680 INFO  JamesAndJames :102 - I enter Last name [[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //*[@id="4545907714"]]
+2023-04-16 19:04:828 INFO  JamesAndJames :108 - I enter Company name  [[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //*[@id="4545910786"]]
+2023-04-16 19:04:253 INFO  JamesAndJames :114 - I enter Busienss Email [[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //*[@id="4545908738"]]
+2023-04-16 19:04:455 INFO  JamesAndJames :119 - I enter Phone number [[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //*[@id="4545914882"]]
+2023-04-16 19:04:651 INFO  JamesAndJames :124 - I enter total order [[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //*[@id="4586371074"]]
+2023-04-16 19:04:803 INFO  JamesAndJames :130 - I enter Message [[ChromeDriver: chrome on WINDOWS (33132e5b720bce5811731749ee672846)] -> xpath: //*[@id="4586383362"]]
+2023-04-19 22:04:507 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:710 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (45bc3e61314d4cf42e4bae7a02238557)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:527 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:240 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (d5dd99b1e915e33df558f4aaaf32bc0e)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:641 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:292 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (00cdd59fda35b503ceff832f368ab5e0)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:940 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:336 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (f1850762ce0dc92b29aa1e388d41831d)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:137 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:806 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (51033b2406be52a32a0a7b285019566a)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:149 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:804 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (cda2a5378c0b59b86f186172865dc3cc)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:546 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:433 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (bdd499eb78439ad048fb7b3096889dab)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:390 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:332 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (76b38e5cd6bc2b31ce46c87c2041ca58)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-19 22:04:472 INFO  IthPharma :92 - I enter UserName Proxy element for: DefaultElementLocator 'By.xpath: /html/body/main/div/div/div/form/div[2]/div/div/input'
+2023-04-19 22:04:138 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-19 22:04:775 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (67d2cdfff5dc05610205540e22b5582a)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 16:04:864 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-20 16:04:527 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (a024807633a5ea76ed00a5e0a4c7caae)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 16:04:976 INFO  IthPharma :87 - I click Registered Page[[ChromeDriver: chrome on WINDOWS (a024807633a5ea76ed00a5e0a4c7caae)] -> xpath: //a[contains(text(),'Register')]]
+2023-04-20 16:04:487 INFO  IthPharma :92 - I enter UserName Proxy element for: DefaultElementLocator 'By.xpath: /html/body/main/div/div/div/form/div[2]/div/div/input'
+2023-04-20 16:04:266 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-20 16:04:544 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (2567ac33c163a787174bca5356876b0c)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 16:04:404 INFO  IthPharma :92 - I enter UserName Proxy element for: DefaultElementLocator 'By.xpath: /html/body/main/div/div/div/form/div[2]/div/div/input'
+2023-04-20 16:04:119 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-20 16:04:632 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (d55cfcfa3b727481c8254029ec3bd3d3)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 16:04:579 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-20 16:04:360 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (873e75735ba1174bc5d4192f296b762a)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 16:04:328 INFO  IthPharma :92 - I enter UserName Proxy element for: DefaultElementLocator 'By.xpath: /html/body/main/div/div/div/form/div[2]/div/div/input'
+2023-04-20 17:04:850 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-20 17:04:843 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (1021641b260fae00a0d645f3e253d1ed)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 17:04:344 INFO  IthPharma :87 - I click Registered Page[[ChromeDriver: chrome on WINDOWS (1021641b260fae00a0d645f3e253d1ed)] -> xpath: //a[contains(text(),'Register')]]
+2023-04-20 17:04:651 INFO  IthPharma :92 - I enter UserName Proxy element for: DefaultElementLocator 'By.xpath: /html/body/main/div/div/div/form/div[2]/div/div/input'
+2023-04-20 22:04:327 INFO  IthPharma :73 - I click On WhoWeAre
+2023-04-20 22:04:293 INFO  IthPharma :80 - I verify Text[[ChromeDriver: chrome on WINDOWS (17501f377be58bbc781f3061290ebaf7)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 22:04:593 INFO  IthPharma :87 - I click Registered Page[[ChromeDriver: chrome on WINDOWS (17501f377be58bbc781f3061290ebaf7)] -> xpath: //a[contains(text(),'Register')]]
+2023-04-20 22:04:800 INFO  IthPharma :92 - I enter UserName Proxy element for: DefaultElementLocator 'By.xpath: /html/body/main/div/div/div/form/div[2]/div/div/input'
+2023-04-20 22:04:949 INFO  IthPharma :75 - I click On WhoWeAre
+2023-04-20 22:04:914 INFO  IthPharma :82 - I verify Text[[ChromeDriver: chrome on WINDOWS (ee854e3a48c7071ffd3e6db2e1309216)] -> xpath: //strong[contains(text(),'COVID 19')]]
+2023-04-20 22:04:242 INFO  IthPharma :89 - I click Registered Page[[ChromeDriver: chrome on WINDOWS (ee854e3a48c7071ffd3e6db2e1309216)] -> xpath: //a[contains(text(),'Register')]]
+2023-04-20 22:04:715 INFO  IthPharma :104 - I enter UserName [[ChromeDriver: chrome on WINDOWS (ee854e3a48c7071ffd3e6db2e1309216)] -> xpath: /html/body/main/div/div/div/form/div[2]/div/div/input]
