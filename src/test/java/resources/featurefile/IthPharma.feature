@@ -1,6 +1,5 @@
 Feature: Home page Testing
 
-
   Scenario: As a user i want to verify Home page
     Given As a user I am on Homepage
     When I click On Home
